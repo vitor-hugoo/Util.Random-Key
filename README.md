@@ -1,4 +1,4 @@
-# random_key
+# util.random.key
  Script para gerar uma chave aleatória
 
 Para rodar o script:
